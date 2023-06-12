@@ -1,0 +1,6 @@
+.a_search_input:focus + ul.a_search{
+     display: block; /* show */
+}
+.a_search{
+    display: none; /* hide */
+}
